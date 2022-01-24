@@ -4,3 +4,5 @@ ARM Cortex project for fourth grade of Electronic Engineering. It´s based on a 
 The board used is a FRDM-KL46Z from NXP semiconductors (Freescale).
 
 It´s entirely coded in C++.
+
+In the folder "documentation" you can see the report in spanish.
